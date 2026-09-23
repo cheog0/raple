@@ -13,7 +13,7 @@ export default function Footer() {
           <a href="#features">기능</a>
           <a href="#templates">템플릿</a>
           <a href="#faq">FAQ</a>
-          <a href={APP_URL}>로그인</a>
+          <a href={APP_URL}>무료로 시작하기</a>
         </div>
         <small className="w-full text-[11px] text-white/40 sm:w-auto">
           © 2026 Raple. All rights reserved.

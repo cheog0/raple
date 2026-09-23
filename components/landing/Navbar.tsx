@@ -32,12 +32,6 @@ export default function Navbar() {
         <div className="flex items-center gap-3">
           <a
             href={APP_URL}
-            className="hidden text-[14px] text-white/70 transition-colors hover:text-white sm:inline"
-          >
-            로그인
-          </a>
-          <a
-            href={APP_URL}
             className="inline-flex items-center rounded-full bg-white px-4 py-2 text-[13px] font-semibold text-black"
           >
             무료로 시작하기
